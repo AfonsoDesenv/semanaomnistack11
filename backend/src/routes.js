@@ -37,9 +37,6 @@ routes.get('/profile', celebrate({
 }), ProfileController.index);
 
 routes.get('/incidents', celebrate({
-  [Segments.HEADERS]: Joi.object({
-    authorization: Joi.string().required()
-  }).unknown(),
   [Segments.QUERY]: Joi.object().keys({
     page: Joi.number()
   })
