@@ -27,5 +27,6 @@ Mobile
 
 <h1 align="center">
 Exemplo de teste integrado:
+<br/>
 <img src="https://github.com/AfonsoDesenv/semanaomnistack11/blob/master/assets/tests.jpg" width="50%" height="50%" />
 </h1>
