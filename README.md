@@ -7,7 +7,7 @@
 
 ### Aplicação com o objetivo de permitir com que pessoas possam entrar em contato com ONG's para fazer doações dos casos registrados por ela.
 
-Principais técnologias utilizadas foram <b>Node.js</b>, <b>ReactJS</b> e <b>React Native</b> com <b>Expo</b>.
+Principais tecnologias utilizadas foram <b>Node.js</b>, <b>ReactJS</b> e <b>React Native</b> com <b>Expo</b>.
 Foram utilizados também <b>Jest</b> para os testes unitários/integrados e SqLite para o banco de dados.
 
 <h1 align="center">
